@@ -1,6 +1,16 @@
-# Welcome to Remix!
+![alt text](image.png)
+# Let's Create A Todo App!
 
 - 📖 [Remix docs](https://remix.run/docs)
+
+## Functions
+
+- Form Handling
+- useState Hook
+- useEffect Hook
+- localstorage
+- React Toastify npm package  
+
 
 ## Development
 
